@@ -28,8 +28,8 @@ Description           Write a function that returns a line read from a file desc
   -  Try to read as little as possible each time `get_next_line()` is called. Don't read the whole file and then process each line.
   
 ### Bonus:
-  [X] Develop `get_next_line()` usign only one static variable.
-  [X] Your `get_next_line()` can manage multiple file descriptors at the same time.
+  - [X] Develop `get_next_line()` usign only one static variable.
+  - [X] Your `get_next_line()` can manage multiple file descriptors at the same time.
   
 ### Molinette evaluation:
 ```diff
