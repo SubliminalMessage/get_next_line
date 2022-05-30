@@ -1,4 +1,4 @@
-# ![get_next_line Score](https://badge42.herokuapp.com/api/project/dangonza/get_next_line) get_next_line
+# [![dangonza's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl3t9j6rm002109ml7llzqtc4/project/2478890)](https://github.com/JaeSeoKim/badge42) get_next_line
 A project from @42School. Please use this code only as reference. Copying it could mean a -42 Project Score, and a [Bad Reputation](https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX?si=c5a41815e8b94066).<br>
 ### Project Description:
 This project is about programming a function that returns a line read from a file descriptor.
